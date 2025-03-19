@@ -14,11 +14,26 @@ This application is modular, divided into three files:
 📂 **functions.py** - Stores reusable functions.  
 📂 **main.py** - The main file to run the program.  
 
-To start the application, simply execute:  
+### 🔹 Running Locally  
+To run the project on your local machine, follow these steps:  
+
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/holguinLab/Bank_Management_System.git
+cd BankManagementSystem
+```  
+
+2️⃣ **Run the application**  
 ```bash
 python main.py
 ```  
 
+### 🔹 Run Online (Replit)  
+If you prefer to run it online, you can use **Replit**:  
+🔗 **[Live Demo on Replit](https://replit.com/@holguinpyweb/BankManagementSystem)**  
+
 ## ⚠️ Error Handling  
-This system is designed to **keep running even if errors occur**. I have implemented multiple `try-except` blocks and `while` loops with conditions to ensure that the program doesn't crash. If you find any bugs or unexpected behavior, feel free to report them—I truly appreciate your feedback! 🙌  
+This system is designed to **keep running even if errors occur**. I have implemented multiple `try-except` blocks and `while` loops with conditions to ensure that the program doesn't crash.  
+
+🔹 **Found a bug?** Please report it! Your feedback is highly appreciated. 🙌  
 
